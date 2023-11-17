@@ -1,0 +1,17 @@
+.gitignore
+.npmignore
+.openapi-generator-ignore
+README.md
+package.json
+src/index.ts
+src/models/BadRequestError400Response.ts
+src/models/BadRequestError400ResponseError.ts
+src/models/BaseError.ts
+src/models/ForbiddenError403Response.ts
+src/models/ForbiddenError403ResponseError.ts
+src/models/InternalServerError500Response.ts
+src/models/InternalServerError500ResponseError.ts
+src/models/UnauthorizedError401Response.ts
+src/models/UnauthorizedError401ResponseError.ts
+src/runtime.ts
+tsconfig.json
